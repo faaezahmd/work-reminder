@@ -3,6 +3,15 @@
 Runs in the background with a tray icon and opens an animated "BACK TO WORK"
 console window every N minutes (default 30). No other window.
 
+## Screenshots
+The reminder popup (the banner flashes through colours, with a soft chime):
+
+![Reminder popup](docs/popup.png)
+
+The tray menu:
+
+![Tray menu](docs/tray-menu.png)
+
 ## Tray icon (left or right click)
 Teal clock = running, grey pause = paused.
 - Status line - when the next reminder comes
